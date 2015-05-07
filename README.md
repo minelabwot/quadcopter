@@ -16,7 +16,7 @@ git commit -m ‘…..’ （….为所要做的标示）
 
 5、push一下，同步本地和网上的库
 
-git push git@github.com/minelabwot/quracoper.git
+git push git@github.com:minelabwot/quracoper.git
 
 
 将网上的库和本地同步，pull一下
@@ -37,4 +37,4 @@ git add microduino/
 
 git commit -m ‘microduino’
 
-git push git@github.com/minelabwot/quracoper.git
+git push git@github.com:minelabwot/quracoper.git
